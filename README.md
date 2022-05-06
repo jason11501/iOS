@@ -1,16 +1,15 @@
 # Ứng dụng iOS: Authentication
 Gồm những tính năng (features): <br>
 
-* Đăng nhập (Login) 
-* Đăng kí (Register)
-* Đăng nhập bằng Facebook
-* Định dạng lại biển số xe xác định biển số xe gồm một hay hai dòng.
+* Login với email
+* Register với email có avatar
+* Login bằng Facebook
 
 ## Install environments
 **Công cụ (tool)**<br>
-*Xcode 13.3.1
+* Xcode 13.3.1
 **Ngôn ngữ (Language)**<br>
-*Swift
+* Swift
 
 ```
 pip install -r requirements.txt
