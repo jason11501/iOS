@@ -25,9 +25,14 @@ pod install
 ## Kết quả
    :sunglasses:
    <p align="center" >
+   <img src="" >
+    <br>
+   resize icon
+</p>
+   <p align="center" >
    <img src="https://github.com/jason11501/iOS/blob/main/Screen%20Shot%202022-05-06%20at%2013.11.28.jpeg" >
     <br>
-   Ảnh 4:  Kết quả
+   icon
 </p>
 
 Tuy nhiên, nó vẫn có một số nhược điểm::worried:
