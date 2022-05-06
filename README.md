@@ -6,10 +6,9 @@ Gồm những tính năng (features): <br>
 * Login bằng Facebook
 
 ## Install environments
-**Công cụ (tool)**<br>
-* Xcode 13.3.1
+**Công cụ (tool)**<br>Xcode 13.3.1
 **Ngôn ngữ (Language)**<br>
-* Swift
+   * Swift
 
 ```
 pip install -r requirements.txt
