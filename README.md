@@ -9,7 +9,8 @@ Gồm những tính năng (features): <br>
 ## Install environments
 **Công cụ (tool)**<br>
 *Xcode 13.3.1
-**Ngôn ngữ (Language)**Swift
+**Ngôn ngữ (Language)**<br>
+*Swift
 
 ```
 pip install -r requirements.txt
