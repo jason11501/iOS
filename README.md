@@ -7,7 +7,8 @@ Gồm những tính năng (features): <br>
 * Định dạng lại biển số xe xác định biển số xe gồm một hay hai dòng.
 
 ## Install environments
-**Công cụ (tool)**Xcode 13.3.1
+**Công cụ (tool)**Xcode<br>
+*Xcode 13.3.1
 **Ngôn ngữ (Language)**Swift
 
 ```
