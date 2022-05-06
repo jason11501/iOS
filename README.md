@@ -21,7 +21,7 @@ pod install
 ## Kết quả
    :sunglasses:
    <p align="center" >
-   <img src="https://drive.google.com/file/d/18PqibS-eCCzAaQ4eQeZ8a8kfj7suzEmN/view?usp=sharing" >
+   <img src="https://studenthcmusedu-my.sharepoint.com/:i:/g/personal/19127517_student_hcmus_edu_vn/EQkQEixL8ClNmz9r1mdE5pgBo0V_d-gTMiJfWw45QNOD-Q?e=yPHb8W" >
     Ảnh 4:  Kết quả
 </p>
 
