@@ -13,6 +13,10 @@ Gồm những tính năng (features): <br>
 **Ngôn ngữ (Language):**<br>
 * Swift
 
+Install cocoapod:
+```
+sudo gem install cocoapods
+```
 Mở Terminal, cd vào folder firebase chứa Podfile, run: 
 ```
 pod install
