@@ -23,7 +23,7 @@ pod install
 ```
 
 ## Quick start
-Các bạn có thể clone repo này về và chạy ngay bằng câu lệnh dưới đây, run:
+Các bạn có thể clone repo này về. Open firebase.xcworkspace và run ngay bằng câu lệnh dưới đây:
 ```
 ⌘ + R
 ```
