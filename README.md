@@ -9,7 +9,8 @@ Gồm những tính năng (features): <br>
 **Công cụ (tool):**<br>
 * Xcode 13.3.1
 * Firebase: https://console.firebase.google.com/u/0/<br>
-**Ngôn ngữ (Language)**<br>
+
+**Ngôn ngữ (Language):**<br>
 * Swift
 
 ```
