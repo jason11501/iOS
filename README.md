@@ -22,6 +22,12 @@ Mở Terminal, cd vào folder firebase chứa Podfile, run:
 pod install
 ```
 
+## Quick start
+Các bạn có thể clone repo này về và chạy ngay bằng câu lệnh dưới đây, run:
+```
+⌘ + R
+```
+
 ## Kết quả
    :sunglasses:
 <p align="center" >
