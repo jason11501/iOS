@@ -6,12 +6,14 @@ Gồm những tính năng (features): <br>
 * Login bằng Facebook
 
 ## Install environments
-**Công cụ (tool):**<br>Xcode 13.3.1
+**Công cụ (tool):**<br>
+* Xcode 13.3.1
+* Firebase: https://console.firebase.google.com/u/0/<br>
 **Ngôn ngữ (Language)**<br>
-   * Swift
+* Swift
 
 ```
-pip install -r requirements.txt
+pod install
 ```
 
 ## Quick start
