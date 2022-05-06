@@ -7,7 +7,7 @@ Gồm những tính năng (features): <br>
 * Định dạng lại biển số xe xác định biển số xe gồm một hay hai dòng.
 
 ## Install environments
-**Công cụ: **
+**Công cụ **
 
 ```
 pip install -r requirements.txt
