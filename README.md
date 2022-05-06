@@ -40,9 +40,17 @@ pod install
    avatar icon
 </p>
 <p align="center" >
+   <img src="https://github.com/jason11501/iOS/blob/main/Screen%20Shot%202022-05-06%20at%2014.09.08.png" >
+</p>
+<p align="center" >
    <img src="https://github.com/jason11501/iOS/blob/main/Screen%20Shot%202022-05-06%20at%2013.59.00.png" >
     <br>
    login screen
+</p>
+<p align="center" >
+   <img src="https://github.com/jason11501/iOS/blob/main/Screen%20Shot%202022-05-06%20at%2014.09.21.png" >
+    <br>
+   register screen
 </p>
 <p align="center" >
    <img src="https://github.com/jason11501/iOS/blob/main/Screen%20Shot%202022-05-06%20at%2013.57.45.png" >
