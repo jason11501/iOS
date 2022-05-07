@@ -60,6 +60,6 @@ Các bạn có thể clone repo này về. Open firebase.xcworkspace và run nga
    <img src="https://github.com/jason11501/iOS/blob/main/Screen%20Shot%202022-05-06%20at%2014.09.21.png" ><br>
    register screen
 </p>
-## Reference
+## Reference<br>
 https://drive.google.com/file/d/1AX0zfEvUswCbupcC4tAFb-JyvdqRqbdp/view?usp=sharing<br>
 https://drive.google.com/file/d/1_By5yDkMU0zIKoM02DT6X0HGD5qm8s0f/view?usp=sharing
