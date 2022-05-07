@@ -61,5 +61,5 @@ Các bạn có thể clone repo này về. Open firebase.xcworkspace và run nga
    register screen
 </p>
 ## Reference
-https://drive.google.com/file/d/1AX0zfEvUswCbupcC4tAFb-JyvdqRqbdp/view?usp=sharing
+https://drive.google.com/file/d/1AX0zfEvUswCbupcC4tAFb-JyvdqRqbdp/view?usp=sharing<br>
 https://drive.google.com/file/d/1_By5yDkMU0zIKoM02DT6X0HGD5qm8s0f/view?usp=sharing
