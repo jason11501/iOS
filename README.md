@@ -28,7 +28,7 @@ Các bạn có thể clone repo này về. Open firebase.xcworkspace và run nga
 ⌘ + R
 ```
 
-## Kết quả
+## Result
    :sunglasses:
 <p align="center" >
    <img src="https://github.com/jason11501/iOS/blob/main/Screen%20Shot%202022-05-06%20at%2013.45.31.png" >
@@ -60,3 +60,5 @@ Các bạn có thể clone repo này về. Open firebase.xcworkspace và run nga
    <img src="https://github.com/jason11501/iOS/blob/main/Screen%20Shot%202022-05-06%20at%2014.09.21.png" ><br>
    register screen
 </p>
+## Reference
+https://drive.google.com/file/d/1AX0zfEvUswCbupcC4tAFb-JyvdqRqbdp/view?usp=sharing
