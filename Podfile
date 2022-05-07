@@ -17,7 +17,7 @@ target 'firebase' do
   pod 'Firebase/Database'
   pod 'Firebase/Storage'
   
-  pod 'SDWebImage'
+  pod 'SDWebImage'# display ảnh vớ URL
   pod 'ProgressHUD'#loading
   
   # Pods for firebase
