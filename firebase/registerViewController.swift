@@ -64,7 +64,7 @@ class registerViewController: UIViewController {
     @IBAction func tapOnRegister(_ sender: Any) {
         ProgressHUD.show()
         //ProgressHUD.show(icon: .succeed) // loading icon
-        iconview.endEditing(true)
+        view.endEditing(true)
         if tfEmail.text == "" || tfPassword.text == ""{
             //Firebase đã xét hết những trường hợp gõ ko hợp lệ về mail, pass nên ta ko cần làm
             self.view.makeToast("Sorry, please enter your info.")
